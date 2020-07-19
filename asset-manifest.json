@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/DRCalc/static/js/main.ab01fb5d.chunk.js",
-    "main.js.map": "/DRCalc/static/js/main.ab01fb5d.chunk.js.map",
+    "main.js": "/DRCalc/static/js/main.c887ae16.chunk.js",
+    "main.js.map": "/DRCalc/static/js/main.c887ae16.chunk.js.map",
     "runtime-main.js": "/DRCalc/static/js/runtime-main.c6d74476.js",
     "runtime-main.js.map": "/DRCalc/static/js/runtime-main.c6d74476.js.map",
-    "static/js/2.5e142a84.chunk.js": "/DRCalc/static/js/2.5e142a84.chunk.js",
-    "static/js/2.5e142a84.chunk.js.map": "/DRCalc/static/js/2.5e142a84.chunk.js.map",
+    "static/js/2.0dbfa9f9.chunk.js": "/DRCalc/static/js/2.0dbfa9f9.chunk.js",
+    "static/js/2.0dbfa9f9.chunk.js.map": "/DRCalc/static/js/2.0dbfa9f9.chunk.js.map",
     "index.html": "/DRCalc/index.html",
-    "precache-manifest.6e249d7762ae2cc24fbfa2d11fdf4628.js": "/DRCalc/precache-manifest.6e249d7762ae2cc24fbfa2d11fdf4628.js",
+    "precache-manifest.1a4e5e46472c215de518deb02c37afac.js": "/DRCalc/precache-manifest.1a4e5e46472c215de518deb02c37afac.js",
     "service-worker.js": "/DRCalc/service-worker.js",
-    "static/js/2.5e142a84.chunk.js.LICENSE.txt": "/DRCalc/static/js/2.5e142a84.chunk.js.LICENSE.txt"
+    "static/js/2.0dbfa9f9.chunk.js.LICENSE.txt": "/DRCalc/static/js/2.0dbfa9f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6d74476.js",
-    "static/js/2.5e142a84.chunk.js",
-    "static/js/main.ab01fb5d.chunk.js"
+    "static/js/2.0dbfa9f9.chunk.js",
+    "static/js/main.c887ae16.chunk.js"
   ]
 }
